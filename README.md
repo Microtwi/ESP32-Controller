@@ -1,5 +1,5 @@
 # Controller
 
-Require libraries:
+Required libraries:
 - ESP32-BLE-Gamepad
 - NimBLE-Arduino
